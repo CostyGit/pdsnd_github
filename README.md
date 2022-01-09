@@ -39,49 +39,49 @@ washington.csv
 ### Credits
 To complete this project, I referred to Udacity courses and the following resources:
 
-Pandas documentation:
+#### Pandas documentation:
 
-https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_dict.html#
-
-
-Github repositories:
-
-https://github.com/Aritra96/bikeshare-project/blob/master/bikeshare.py
-
-https://github.com/xhlow/udacity-bikeshare-project/blob/master/bikeshare.py
-
-https://github.com/pandas-dev/pandas/issues/22830
+[pandas.DataFrame.to_dict](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_dict.html)
 
 
-Stack Overflow:
+#### Github repositories:
 
-https://stackoverflow.com/questions/17071871/how-do-i-select-rows-from-a-dataframe-based-on-column-values
+[Aritra96's repository](https://github.com/Aritra96/bikeshare-project/blob/master/bikeshare.py)
 
-https://stackoverflow.com/questions/51523674/why-is-my-data-frame-still-empty
+[xhlow's repository](https://github.com/xhlow/udacity-bikeshare-project/blob/master/bikeshare.py)
 
-https://stackoverflow.com/questions/59349714/filtering-a-dataframe-returns-an-empty-dataframe
-
-https://stackoverflow.com/questions/12097033/python-index-error-value-not-in-list-on-indexvalue
-
-https://stackoverflow.com/questions/21291259/convert-floats-to-ints-in-pandas
-
-https://stackoverflow.com/questions/24870306/how-to-check-if-a-column-exists-in-pandas
-
-https://stackoverflow.com/questions/65480967/how-can-i-display-five-rows-of-data-based-on-user-in-python
+[pandas-dev's repository](https://github.com/pandas-dev/pandas/issues/22830)
 
 
-Misc websites:
+#### Stack Overflow:
 
-https://towardsdatascience.com/8-ways-to-filter-pandas-dataframes-d34ba585c1b8
+[Selecting rows from a DataFrame](https://stackoverflow.com/questions/17071871/how-do-i-select-rows-from-a-dataframe-based-on-column-values)
 
-https://www.geeksforgeeks.org/ways-to-filter-pandas-dataframe-by-column-values/
+[Dealing with empty DataFrames](https://stackoverflow.com/questions/51523674/why-is-my-data-frame-still-empty)
 
-https://cmdlinetips.com/2018/02/how-to-subset-pandas-dataframe-based-on-values-of-a-column/
+[Dealing with empty DataFrame 2](https://stackoverflow.com/questions/59349714/filtering-a-dataframe-returns-an-empty-dataframe)
 
-https://datascienceparichay.com/article/pandas-check-if-a-dataframe-is-empty/
+[Index error](https://stackoverflow.com/questions/12097033/python-index-error-value-not-in-list-on-indexvalue)
 
-https://www.geeksforgeeks.org/creating-a-dataframe-using-csv-files/
+[Convert floats to integers](https://stackoverflow.com/questions/21291259/convert-floats-to-ints-in-pandas)
 
-https://towardsdatascience.com/how-to-filter-rows-of-a-pandas-dataframe-by-column-value-51996ea621f8
+[Does column exist?](https://stackoverflow.com/questions/24870306/how-to-check-if-a-column-exists-in-pandas)
 
-https://www.kite.com/python/examples/2645/pandas-get-the-raw-data-from-a-%60dataframe%60-as-a-list-of-rows
+[Display five rows](https://stackoverflow.com/questions/65480967/how-can-i-display-five-rows-of-data-based-on-user-in-python)
+
+
+#### Miscellaneous websites:
+
+[Filter DataFrames](https://towardsdatascience.com/8-ways-to-filter-pandas-dataframes-d34ba585c1b8)
+
+[Filter DataFrames by column](https://www.geeksforgeeks.org/ways-to-filter-pandas-dataframe-by-column-values/)
+
+[Obtain subset of DataFrame](https://cmdlinetips.com/2018/02/how-to-subset-pandas-dataframe-based-on-values-of-a-column/)
+
+[Check if DataFrame is empty](https://datascienceparichay.com/article/pandas-check-if-a-dataframe-is-empty/)
+
+[Creating DataFrames](https://www.geeksforgeeks.org/creating-a-dataframe-using-csv-files/)
+
+[Filter rows by column value](https://towardsdatascience.com/how-to-filter-rows-of-a-pandas-dataframe-by-column-value-51996ea621f8)
+
+[Get raw data from DataFrame](https://www.kite.com/python/examples/2645/pandas-get-the-raw-data-from-a-%60dataframe%60-as-a-list-of-rows)

@@ -5,7 +5,7 @@ import numpy as np
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
-              
+
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
@@ -76,6 +76,7 @@ def load_data(city, month):
 def time_stats(df, month):
     """Displays statistics on the most frequent times of travel."""
 
+    print('Please wait while we load the data. . .')
     print('\nCalculating The Most Frequent Times of Travel...\n')
     start_time = time.time()
 
@@ -198,10 +199,10 @@ def raw_data(df):
     Asks user if they want to explore raw data.
     """
     while True:
-        query = str(input('Would you like to see individual trip data? Type yes or no?').lower().strip())
-        if query not in ['yes', 'no']:
+        ask_raw_data = str(input('Would you like to see individual trip data? Type yes or no?').lower().strip())
+        if ask_raw_data not in ['yes', 'no']:
             print('Please type yes or no.')
-        elif query == 'yes':
+        elif ask_raw_data == 'yes':
             start_loc = 0
             keep_asking = True
             while (keep_asking):

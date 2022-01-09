@@ -6,8 +6,14 @@
 ### Explore Bikeshare Data
 <!-- Replace the Project Title -->
 
-### Description
+### Intro
 This interactive project uses Python to explore data related to the bike share systems for three major US cities - Chicago, New York City, and Washington.
+
+### Technologies
+
+* Python 3.6
+
+### Description
 
 The project uses Python and Python packages (time, pandas, and numpy) to create an interactive interface where users can input their preferences to filter the data by city and month and obtain information about the following data points:
 

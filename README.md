@@ -7,25 +7,25 @@
 <!-- Replace the Project Title -->
 
 ### Description
-his interactive project uses Python to explore data related to the bike share systems for three major US cities - Chicago, New York City, and Washigton.
+This interactive project uses Python to explore data related to the bike share systems for three major US cities - Chicago, New York City, and Washigton.
 
 The project uses Python and Python packages (time, pandas, and numpy) to create an interactive interface where users can input their preferences to filter the data by city and month and obtain information about the following data points:
 
-#1 Popular times of travel (i.e., occurs most often in the start time)
+####1 Popular times of travel (i.e., occurs most often in the start time)
 most common month
 most common day of week
 most common hour of day
 
-#2 Popular stations and trip
+####2 Popular stations and trip
 most common start station
 most common end station
 most common trip from start to end (i.e., most frequent combination of start station and end station)
 
-#3 Trip duration
+####3 Trip duration
 total travel time
 average travel time
 
-#4 User info
+####4 User info
 counts of each user type
 counts of each gender (only available for NYC and Chicago)
 earliest, most recent, most common year of birth (only available for NYC and Chicago)
